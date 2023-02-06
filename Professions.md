@@ -1,7 +1,7 @@
 
 ## Professions
 
-#### Mudrunner (Houndmaster)
+### Mudrunner (Houndmaster)
 
 _Because long-distance data transfer is impossible, it’s the job of hundreds of runners, drones and messenger hounds to carry small, encrypted packets over long distances._
 
@@ -18,7 +18,7 @@ You have:
 * Night-vision goggles, city maps, binoculars
 * Lots of people you know
 
-#### Mercenary
+### Mercenary
 
 _Troopers and former Prevention officers on the Lizard payroll. Usually decked out with cybernetics and illegal weaponry. They get paid more than their Ministry counterparts._
 
@@ -34,7 +34,7 @@ You have:
 * Modern melee weaponry, like knives and batons
 * First-aid kit with coagulants, liquid bandages and more
 
-#### Mirror Witch
+### Mirror Witch
 
 _Practitioners of ancient paradigms, cultish priests and sorcerers. They try to find ways to integrate the Old World back into society, and earn themselves power while at it._
 
@@ -50,7 +50,7 @@ You have:
 * Kit for **street witchery**, like smoke bombs, dazzlers, tarot cards (steel-tipped ones) and crystal balls
 * Some worthy **sacrifices**, bought from Lizards at a steep cost, stolen or found in strange places
 
-#### Officer of Prevention
+### Officer of Prevention
 
 _The Ministry police, thrust in the middle of it all: domestic violence, riots and protests, corporate plots, unimaginable horrors. Their riot gear shields them from most homemade weaponry, but it sure can't shield them from horrors._
 
